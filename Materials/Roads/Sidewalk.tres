@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://blaq5bqaeb2g8"]
+
+[ext_resource type="Texture2D" uid="uid://dxuuo8p2c6yw3" path="res://Textures/Roads/sidewalk.png" id="1_chm4w"]
+
+[resource]
+albedo_texture = ExtResource("1_chm4w")
